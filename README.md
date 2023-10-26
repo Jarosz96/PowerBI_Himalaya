@@ -9,12 +9,14 @@ This repository contains a PowerBI project along with supporting Excel files. It
 - `Ekonomi.xlsx`: Excel data file used in the PowerBI project.
 - `Avdelningar.xlsx`: Excel data file used in the PowerBI project.
 - `Backgrounds.pptx`: Backgrounds for this project.
+- `ReportPreview_HKV.pdf`: Backgrounds for this project.
 
 ## Getting Started
 
-1. Download the `DE23_Sebastian_Jarosz_HKV.pbix` and `.xlsx` files.
+1. Download `DE23_Sebastian_Jarosz_HKV.pbix` and the `.xlsx` files.
 2. Open the PowerBI project file in Power BI Desktop.
 3. Explore the visualizations and reports.
+4. If the `.pbix` file requires authentication, you can access a static preview of the report by downloading `ReportPreview_HKV.pdf`.
 
 ## Notes
 
