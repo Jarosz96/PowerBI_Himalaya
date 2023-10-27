@@ -9,7 +9,7 @@ This repository contains a PowerBI project along with supporting Excel files. It
 - `Ekonomi.xlsx`: Excel data file used in the PowerBI project.
 - `Avdelningar.xlsx`: Excel data file used in the PowerBI project.
 - `Backgrounds.pptx`: Backgrounds for this project.
-- `ReportPreview_HKV.pdf`: Backgrounds for this project.
+- `ReportPreview_HKV.pdf`: Static preview for this project.
 
 ## Getting Started
 
